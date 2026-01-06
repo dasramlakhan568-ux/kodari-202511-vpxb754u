@@ -1,0 +1,20 @@
+name: AmethystSMP
+version: 1.0.0
+main: com.amethystsmp.AmethystSMP
+api-version: '1.20'
+author: AmethystSMP
+description: Magical Amethyst Shards with unique powers
+
+commands:
+  am:
+    description: Amethyst management commands
+    usage: /am <give|recipe> [args]
+    permission: amethystsmp.admin
+  ams:
+    description: Open Amethyst Collection showcase
+    usage: /ams
+
+permissions:
+  amethystsmp.admin:
+    description: Access to admin commands
+    default: op

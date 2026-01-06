@@ -1,0 +1,25 @@
+admin-amethyst-recipe-enabled: false
+
+first-join:
+  title: "WELCOME TO AMETHYST SMP"
+  subtitle: ""
+  message: "&6Enjoy your journey with your first Amethyst!"
+
+amethyst-rarity:
+  pure: 40.0
+  blazing: 25.0
+  frost: 15.0
+  storm: 10.0
+  nature: 5.0
+  shadow: 3.0
+  wind: 1.0
+  blood: 0.5
+  sonic: 0.3
+  time: 0.2
+  admin: 0.0
+
+particles:
+  enabled: true
+  
+sounds:
+  enabled: true
